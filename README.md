@@ -9,5 +9,11 @@ SkinVision is a deep learning–based web application built to classify various 
 - Accessible Interface for All
 
 # Deliverables
+- Data Preprocessing: Augmentation, resizing, and normalization
+- Exploratory Data Analysis (EDA): Image quality, class imbalance, noise
+- CNN-Based Classification: BatchNorm, Adam optimizer, accuracy & loss tracking
+- Modules:
+  User: Registration, login, image upload, doctor suggestions, feedback
+  Admin: Manage users, doctors, and feedback
 
 
